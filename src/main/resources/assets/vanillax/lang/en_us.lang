@@ -1,0 +1,18 @@
+# Blocks
+tile.dragon_glass_block.name=Block of Dragon Glass
+
+# Items
+item.dragon_glass.name=Dragon Glass
+
+# Tools
+item.dragon_glass_axe.name=Dragon Glass Axe
+item.dragon_glass_hoe.name=Dragon Glass Hoe
+item.dragon_glass_pickaxe.name=Dragon Glass Pickaxe
+item.dragon_glass_shovel.name=Dragon Glass Shovel
+
+#Combat
+item.dragon_glass_sword.name=Dragon Glass Sword
+item.dragon_glass_helmet.name=Dragon Glass Helmet
+item.dragon_glass_chestplate.name=Dragon Glass Chestplate
+item.dragon_glass_leggings.name=Dragon Glass Leggings
+item.dragon_glass_boots.name=Dragon Glass Boots

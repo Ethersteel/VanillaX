@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": {"item": "vanillax:dragon_glass"}
+  },
+  "result": {
+    "item": "vanillax:dragon_glass_block",
+    "count": 1
+  }
+}

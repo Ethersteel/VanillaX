@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vanillax",
+  "name": "Vanilla X",
+  "description": "Expanding on vanilla gameplay with some basic technology and additional items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ethereal"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

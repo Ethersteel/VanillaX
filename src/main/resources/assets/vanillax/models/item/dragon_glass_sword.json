@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "vanillax:items/dragon_glass_sword"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vanillax:blocks/dragon_glass_block"
+  }
+}
