@@ -12,7 +12,7 @@ public class ToolPickaxe extends ItemPickaxe implements IHasModel {
         super(material);
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(CreativeTabs.TOOLS);
+        setCreativeTab(VanillaX.creativeTab);
 
         ItemInit.ITEMS.add(this);
     }

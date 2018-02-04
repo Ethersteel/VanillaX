@@ -1,5 +1,6 @@
 package com.ethereal.vanillax;
 
+import com.ethereal.vanillax.objects.creativetab.ModCreativeTab;
 import com.ethereal.vanillax.proxy.CommonProxy;
 import com.ethereal.vanillax.utils.Reference;
 import net.minecraft.init.Blocks;
@@ -20,6 +21,9 @@ public class VanillaX {
     public static VanillaX instance;
 
     private static Logger logger;
+
+    public static final ModCreativeTab creativeTab = new ModCreativeTab();
+
 
     @SidedProxy(clientSide = Reference.PROXY_CLIENT, serverSide = Reference.PROXY_SERVER)
     public static CommonProxy proxy;

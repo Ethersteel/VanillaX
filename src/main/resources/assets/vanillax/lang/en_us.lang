@@ -16,3 +16,6 @@ item.dragon_glass_helmet.name=Dragon Glass Helmet
 item.dragon_glass_chestplate.name=Dragon Glass Chestplate
 item.dragon_glass_leggings.name=Dragon Glass Leggings
 item.dragon_glass_boots.name=Dragon Glass Boots
+
+#CreativeTab
+itemGroup.vanillax=Vanilla X

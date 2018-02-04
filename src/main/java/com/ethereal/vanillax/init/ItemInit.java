@@ -1,6 +1,6 @@
 package com.ethereal.vanillax.init;
 
-import com.ethereal.vanillax.objects.Armor.ArmorBase;
+import com.ethereal.vanillax.objects.armor.ArmorBase;
 import com.ethereal.vanillax.objects.items.ItemBase;
 import com.ethereal.vanillax.objects.tools.*;
 import com.ethereal.vanillax.utils.Reference;
@@ -31,7 +31,7 @@ public class ItemInit {
     public static final Item DRAGON_GLASS_SHOVEL = new ToolShovel("dragon_glass_shovel",TOOL_MATERIAL_DRAGON_GLASS);
     public static final Item DRAGON_GLASS_SWORD = new ToolSword("dragon_glass_sword",TOOL_MATERIAL_DRAGON_GLASS);
 
-    //Dragon Glass Armor
+    //Dragon Glass armor
     public static final Item DRAGON_GLASS_HELMET = new ArmorBase("dragon_glass_helmet",ARMOR_MATERIAL_DRAGON_GLASS, 1, EntityEquipmentSlot.HEAD);
     public static final Item DRAGON_GLASS_CHESTPLATE = new ArmorBase("dragon_glass_chestplate",ARMOR_MATERIAL_DRAGON_GLASS, 1, EntityEquipmentSlot.CHEST);
     public static final Item DRAGON_GLASS_LEGGINGS = new ArmorBase("dragon_glass_leggings",ARMOR_MATERIAL_DRAGON_GLASS, 2, EntityEquipmentSlot.LEGS);

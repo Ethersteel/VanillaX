@@ -22,7 +22,7 @@ public class ToolAxe extends ItemTool implements IHasModel {
         super(materialIn, EFFECTIVE_ON);
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(CreativeTabs.TOOLS);
+        setCreativeTab(VanillaX.creativeTab);
 
         ItemInit.ITEMS.add(this);
     }
